@@ -1,9 +1,13 @@
 {
   "name": "random-emoji-generator",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
   "main": "index.js",
   "repository": "https://github.com/euridike/random-emoji-generator.git",
-  "author": "“euridike” <reka.szuecs@icloud.com>",
-  "license": "MIT"
+  "author": "<reka.szuecs@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.15.0",
+    "node-emoji": "^1.11.0"
+  }
 }
